@@ -19,7 +19,7 @@ const experiences = [
     title: "Frontend Developer",
     company: "Singularity (Astronomy Club of IISER-K)",
     date: "September 2025 - Present",
-    description: "Built few major pages for the club's official website.",
+    description: "Built few pages for the club's official website.",
     links: [
       { label: "GitHub", url: "https://github.com/thushi308/singularity" },
       { label: "Live Demo", url: "https://thushi308.github.io/singularity/" },
